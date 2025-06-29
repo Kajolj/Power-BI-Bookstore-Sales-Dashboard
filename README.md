@@ -1,4 +1,4 @@
-# Power-BI-Bookstore-Sales-Dashboard
+# Power-BI-Bookstore-Sales-Dashboard | beginner-level
 A beginner-level dashboard built using Power BI to analyze bookstore sales data — including customer behavior, store performance, and sales trends. Includes fact and dimension models, DAX KPIs, and interactive filtering.
 ## 🧾 Project Summary
 
@@ -39,7 +39,7 @@ Includes one fact table and four dimension tables:
 
 1. Clone this repo or download the dataset.
 2. Open Power BI Desktop.
-3. Load the Excel file `bookstore_sales_dataset.xlsx`.
+3. Load the Excel file .
 4. Create relationships between tables.
 5. Use the visuals provided in the report or build your own!
 
